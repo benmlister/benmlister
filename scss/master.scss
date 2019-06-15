@@ -1,0 +1,13 @@
+// Import framework
+@import 'app.scss';
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|PT+Serif&display=swap');
+// Overrides
+// Variables
+
+
+// typography
+
+h1,h2,h3{
+font-family: 'PT Serif', serif !important;
+}
+p {font-family: 'Open Sans', sans-serif!important;}
